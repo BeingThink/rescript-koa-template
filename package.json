@@ -1,0 +1,19 @@
+{
+  "name": "rescript-koa-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "rescript"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@futurert/rescript-koa": "0.0.1-beta.5",
+    "koa": "^2.14.1"
+  },
+  "devDependencies": {
+    "rescript": "10.1.1"
+  }
+}

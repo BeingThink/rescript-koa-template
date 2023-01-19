@@ -1,0 +1,19 @@
+{
+    "name": "rescript-koa-template",
+    "version": "1.0.0",
+    "sources": [
+        {
+            "dir": "src",
+            "subdirs": true
+        }
+    ],
+    "package-specs": {
+        "module": "commonjs",
+        "in-source": true
+    },
+    "bs-dependencies": ["@futurert/rescript-koa"],
+    "suffix": ".bs.js",
+    "warnings": {
+        "error": "+101"
+    }
+}
